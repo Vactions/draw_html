@@ -1,2 +1,2 @@
 # draw_html
-存储html文件
+存储公开文件
